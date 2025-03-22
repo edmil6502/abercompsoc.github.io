@@ -290,3 +290,14 @@ strong {
         font-size: 18px;
     }
 }
+
+table {
+	border: 1px solid;
+	border-spacing: 10px;
+	text-align: centre;
+}
+
+td, th {
+	padding: 10px;
+	border: 1px solid;
+}
